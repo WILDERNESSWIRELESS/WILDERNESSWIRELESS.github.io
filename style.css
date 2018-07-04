@@ -1,6 +1,10 @@
 .img{
+    width:400px;
     margin:auto;
 }
 .txt{
-    font-family: "monaco", monospace;
+    width: 400px;
+    margin: auto;
+    text-align:center;
+    font-family: "Palatino", Times, serif;
 }
